@@ -4,6 +4,7 @@
 
 ## The **paking.sql** is the SQL database script file.
 
-## The **TriggersProcedures.sql** the trigger/procedures SQL script file.
+## The **TriggersProcedures.sql** is the trigger/procedures SQL script file.
 
-## The 
+## The **DBMS_ParkingManagement_ProjectReport.pdf** is the project report.
+
